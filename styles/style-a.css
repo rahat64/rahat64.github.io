@@ -1,3 +1,22 @@
 body {
 	background: yellow;
 }
+
+table {
+	border-top: 4px solid green;
+	border-right: 4px solid green;
+	border-left: 4px solid green;
+	border-bottom: 4px solid green;
+}
+
+th {
+	color: grey;
+}
+
+.mm {
+	color: red;
+}
+
+.nm {
+	color: blue;
+}
