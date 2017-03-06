@@ -2,6 +2,16 @@ body {
 	background: yellow;
 }
 
+h1{
+	text-align: center;
+}
+
+#desc {
+	width: 600px;
+	margin: 30px;
+
+}
+
 table {
 	border-top: 4px solid green;
 	border-right: 4px solid green;
